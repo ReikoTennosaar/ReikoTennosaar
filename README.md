@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Reiko Tennosaar
-- 👀 I’m interested in Game Development, Fish, Computer Stuff, Aviation
-- 📫 Contact - Reixttt@gmail.com
-- Subscibe to me - https://www.youtube.com/channel/UCfLwdqP5VjrRmNO5R51lKug
+My Name Is Reiko Tennosaar.
+I Am Hobbyist Game Developer And Content Creator.
+Youtube https://www.youtube.com/channel/UCfLwdqP5VjrRmNO5R51lKug
 
 <!---
 ReikoTennosaar/ReikoTennosaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
