@@ -1,5 +1,5 @@
-My Name Is Reiko Tennosaar, I am a Solo Indie Game Developer.
-https://www.youtube.com/channel/UCfLwdqP5VjrRmNO5R51lKug
+Video Game Programmer.
+ReikoTennosaar.com
 
 <!---
 ReikoTennosaar/ReikoTennosaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
