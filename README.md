@@ -1,5 +1,5 @@
-Video Game Programmer.
-ReikoTennosaar.com
+Game Programmer
+reikotennosaar.com
 
 <!---
 ReikoTennosaar/ReikoTennosaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
