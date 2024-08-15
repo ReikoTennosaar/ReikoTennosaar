@@ -1,4 +1,4 @@
-Game Programmer
+Software Engineer
 reikotennosaar.com
 
 <!---
